@@ -1,0 +1,7 @@
+username = '/assets/passes.txt'
+password = '/assets/passes.txt'
+new_username = 'usertest'
+new_name = 'Test'
+new_email = '/assets/passes.txt'
+new_town = 'Krakow'
+new_pass = 'Test2021()&^'
