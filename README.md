@@ -39,3 +39,11 @@ To run tests locally Selenium Webdriver is required.
 In this project Selenium Webdriver is managed automatically by 
 [Webdriver Manager](https://github.com/SergeyPirogov/webdriver_manager)
 Be sure that you have updated version of [Chrome Browser](https://www.google.com/chrome/) on your device.
+
+### How to run?
+
+Just type in command line
+
+```
+behave
+```
