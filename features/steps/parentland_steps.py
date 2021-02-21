@@ -6,6 +6,9 @@ import time
 
 
 def read_creds(file_dir: str, line_num: int) -> str:
+    """
+    Reads creds from assets/passes.txt
+    """
     f = open(os.getcwd() + file_dir, "r")
     read = f.readlines()
     return read[line_num]

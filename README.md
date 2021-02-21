@@ -21,6 +21,12 @@ Project Folder
 ├── test_data.py            # test data, usernames etc.
 ```
 
+### Assets
+
+Credentials are hidden in local file: assets/passes.txt
+Please create Parent.Land account and add credentials to this file, as well as your e-mail.
+Helper function "read_creds" () is used.
+
 ### Local env setup
 
 Tu use this project Python 3.8. is required.
